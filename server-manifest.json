@@ -3042,10 +3042,6 @@
       "hash": "3d0088efcb3c429204579bc23f1e02ea4d027361"
     },
     {
-      "path": "mods/gtceu-fabric-1.19.2-1.0.7.b.jar",
-      "hash": "8074acb1138e01343c8c3be5fb48cf6513a539ad"
-    },
-    {
       "path": "mods/hookshot-26.0.jar",
       "hash": "eecb055ce5da17ec3fd1cd29a481fa474deff71f"
     },
@@ -3522,8 +3518,8 @@
       "hash": "43def2af96162516a13ec4f3c99a6ae484ea401f"
     },
     {
-      "path": "mods/valkyrienskies-1192-2.2.0-beta.2.jar",
-      "hash": "03f298bf0c3ae7ebd69a3d678e78a22553dcf03e"
+      "path": "mods/valkyrienskies-1192-2.2.0-beta.3.jar",
+      "hash": "6b6f58789fdeec6ddcc5e4feff5b2c047e423958"
     },
     {
       "path": "mods/vibes-3.0.0.jar",

@@ -1,8 +1,0 @@
-{
-	// How long should the launched TNT's infusion time be?
-	"fuseTime": 80,
-	// How long should the bombing cool-down time be?
-	"cdTime": 60,
-	// Does TNT have inertia?
-	"inertia": true
-}

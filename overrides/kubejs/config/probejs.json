@@ -1,9 +1,0 @@
-{
-  "firstLoad": false,
-  "noAggressiveProbing": true,
-  "docsTimestamp": 1689669566363,
-  "allowRegistryObjectDumps": false,
-  "requireSingleAndPerm": true,
-  "enabled": true,
-  "version": 1
-}

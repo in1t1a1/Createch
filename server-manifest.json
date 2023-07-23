@@ -1,7 +1,7 @@
 {
-  "name": "Createch-1.1.4",
+  "name": "Createch-1.1.5",
   "author": "in1t",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "",
   "fileApi": "https://gitee.com/in1t1a1/Createch/raw/1.19.2",
   "files": [
@@ -79,7 +79,7 @@
     },
     {
       "path": "config/byg/backups/last_working_configs_backup.zip",
-      "hash": "ac52831d998e9fbc2cbde9abffd47d7647bef072"
+      "hash": "84778c5dcf460aff1f4b0e8ac69870415ccd54bd"
     },
     {
       "path": "config/byg/biomepedia.json5",
@@ -471,7 +471,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "0671c07e203a56aacb20d45432fa4628e0bb6202"
+      "hash": "e85d3ca95205302b8c90fa8f53eb6ee55107a26b"
     },
     {
       "path": "config/fabricskyboxes-config.json",
@@ -667,7 +667,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "445a54c397d1264bcd1c5d63cada85f9e4b9036e"
+      "hash": "f587221fee9b7a8263d182e6f56f6fdb3caa9a97"
     },
     {
       "path": "config/inventoryprofilesnext/ddd2/prev-villager-trading-config.json",
@@ -727,7 +727,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "31997c024e9c7455e033d8193abb402675b27d9f"
+      "hash": "be9858799ab377f89877f952721ab63d6cad5501"
     },
     {
       "path": "config/isxander-main-menu-credits.json",
@@ -1299,7 +1299,7 @@
     },
     {
       "path": "config/roughlyenoughitems/config.json5",
-      "hash": "68ff755a97ab5044a96ae7a360713375fc6ad064"
+      "hash": "a7ce71b5a342c5fdec10eafdd836889fb99990fa"
     },
     {
       "path": "config/roughlyenoughitems/hints.json",
@@ -3042,7 +3042,7 @@
       "hash": "3d0088efcb3c429204579bc23f1e02ea4d027361"
     },
     {
-      "path": "mods/gtceu-fabric-1.19.2-1.0.7.b.jar",
+      "path": "mods/gtceu-fabric-1.19.2-1.0.7.b.jar.disabled",
       "hash": "8074acb1138e01343c8c3be5fb48cf6513a539ad"
     },
     {
@@ -3575,11 +3575,11 @@
     },
     {
       "path": "options.txt",
-      "hash": "92ef405436182eb3c3f4c515a6d5d4d98e486ba3"
+      "hash": "e68446de18049c2beb4cc62b2a9b8d65bc99ce08"
     },
     {
       "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.19.2.zip",
-      "hash": "581244eb723fc15822649cf1efae1247b4021214"
+      "hash": "c116c5688e076ee4f5ba41b4ae996754fc0d1c89"
     },
     {
       "path": "resourcepacks/Naturalist Old Models.zip",

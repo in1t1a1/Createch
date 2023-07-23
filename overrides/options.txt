@@ -38,7 +38,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","Fabric Mods","Immersive Weathering Generated Pack","loadmyresources.hiddenpack","Create Legacy Copper","Supplementaries Generated Pack","ServerPack.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.19.2.zip"]
+resourcePacks:["vanilla","Fabric Mods","Immersive Weathering Generated Pack","loadmyresources.hiddenpack","Create Legacy Copper","Supplementaries Generated Pack","ServerPack.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.19.2.zip","lambdabettergrass/default"]
 incompatibleResourcePacks:["loadmyresources.hiddenpack","ServerPack.zip"]
 lastServer:
 lang:zh_cn

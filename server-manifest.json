@@ -1,7 +1,7 @@
 {
-  "name": "Createch-1.1.7",
+  "name": "Createch-1.1.8",
   "author": "in1t",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "description": "",
   "fileApi": "https://gitee.com/in1t1a1/Createch/raw/1.19.2",
   "files": [
@@ -2790,8 +2790,8 @@
       "hash": "32e7620588a82e6465c6176833d6735d2e3a4a4c"
     },
     {
-      "path": "mods/createaddition-fabric1.19.2-20230720d.jar",
-      "hash": "79b9ee0191b87be2b70521c39e3c6212b2915702"
+      "path": "mods/createaddition-fabric+1.19.2-20230723a.jar",
+      "hash": "9f69e9ffb80b479df765102528ff917f91670c90"
     },
     {
       "path": "mods/createchunkloading-1.5.1-fabric.jar",

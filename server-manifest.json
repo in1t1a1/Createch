@@ -1,7 +1,7 @@
 {
-  "name": "Createch-1.1.5",
+  "name": "Createch-1.1.6",
   "author": "in1t",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "",
   "fileApi": "https://gitee.com/in1t1a1/Createch/raw/1.19.2",
   "files": [
@@ -79,7 +79,7 @@
     },
     {
       "path": "config/byg/backups/last_working_configs_backup.zip",
-      "hash": "98216b19076ee8537377035d84109456b3fe2965"
+      "hash": "157b4df5d89152d8a2b3208b5a1fe2b54e41f04e"
     },
     {
       "path": "config/byg/biomepedia.json5",
@@ -327,11 +327,11 @@
     },
     {
       "path": "config/createaddition-common-1.toml.bak",
-      "hash": "ea92419c0e310814e469cdd264187cca8742ac5b"
+      "hash": "0fedea7a1aa2956cc2a83198755d3b81fd6c613c"
     },
     {
       "path": "config/createaddition-common.toml",
-      "hash": "0cfbe31b7f24f74a834e7290c9a16fead09a9749"
+      "hash": "d04d38326509d0328b64407ad894e19bb6324dc1"
     },
     {
       "path": "config/createbigcannons-client.toml",
@@ -475,7 +475,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "4ccafb12607251e38682e278eb411ab0a6f921b3"
+      "hash": "77ab7695d7845e1b17bf6a37ca9eb8a2ca9c28ce"
     },
     {
       "path": "config/fabricskyboxes-config.json",
@@ -671,7 +671,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "b671d9aa3e204f3e018dec3924183be5d018804d"
+      "hash": "582f2d25971c6458ee0318f0ebffd8e6271804fa"
     },
     {
       "path": "config/inventoryprofilesnext/ddd2/prev-villager-trading-config.json",
@@ -691,11 +691,11 @@
     },
     {
       "path": "config/inventoryprofilesnext/mc27.rhymc.com\u002623029/prev-villager-trading-config.json",
-      "hash": "21cf5e82e7d5a34b6d7b1c317cf9201c3da3233a"
+      "hash": "70b5995241519e5b53846cd72bc4943dbb267624"
     },
     {
       "path": "config/inventoryprofilesnext/mc27.rhymc.com\u002623029/villager-trading-config.json",
-      "hash": "21cf5e82e7d5a34b6d7b1c317cf9201c3da3233a"
+      "hash": "fc8cc68f3dd43a1cde92147c4bfc8ac935a814dd"
     },
     {
       "path": "config/inventoryprofilesnext/prev-villager-trading-config.json",
@@ -731,7 +731,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "2ca9f6edf1008fcd725a6e687a53225e0d0c6aeb"
+      "hash": "e6a778d053662bb5e325cda41c3250f21def7851"
     },
     {
       "path": "config/isxander-main-menu-credits.json",
@@ -759,7 +759,7 @@
     },
     {
       "path": "config/jade/sort-order.json",
-      "hash": "0edb04ab123fe1c3f9d3cd87161060fe711aa8cf"
+      "hash": "40fa08132156b285d0b4882738f48006129d2e4d"
     },
     {
       "path": "config/jade/usernamecache.json",
@@ -835,7 +835,7 @@
     },
     {
       "path": "config/lambdynlights.toml",
-      "hash": "7da5f047b12bf86ce7b487c447bad49d412c9575"
+      "hash": "120a6a8fb731e3991f675d331a8a2b9d8784fafa"
     },
     {
       "path": "config/languagereload.json",
@@ -1311,11 +1311,11 @@
     },
     {
       "path": "config/roughlyenoughitems/pinyin.properties",
-      "hash": "1ec7a9772f30ba79c446b97ecd9590a78a41cfe2"
+      "hash": "81d41d093413fdab9a2394cb43ab2b1e1a83a289"
     },
     {
       "path": "config/roughlyenoughitems/pinyin_double.properties",
-      "hash": "f477ff13f59c321539e3a01d4b0d1d5f7c987300"
+      "hash": "872f1d4c7785d01af7ee61db004768f3c71fad17"
     },
     {
       "path": "config/roughlyenoughitems/unihan.zip",
@@ -3047,6 +3047,10 @@
     },
     {
       "path": "mods/gtceu-fabric-1.19.2-1.0.7.b.jar",
+      "hash": "1d70f22687aa2f11f8b1687f0bb1a88dfa01e779"
+    },
+    {
+      "path": "mods/gtceu-fabric-1.19.2-1.0.7.b.jar.disabled",
       "hash": "8074acb1138e01343c8c3be5fb48cf6513a539ad"
     },
     {
@@ -3152,14 +3156,6 @@
     {
       "path": "mods/LeavesBeGone-v4.0.1-1.19.2-Fabric.jar",
       "hash": "c03e67bb499f46700a58b8865fa1197a5a4b8ab3"
-    },
-    {
-      "path": "mods/letsdo-api-fabric-1.1.0.jar",
-      "hash": "79f0b74629dfdef652171c9f79918f6323b7940b"
-    },
-    {
-      "path": "mods/letsdo-vinery-fabric-1.3.7.jar",
-      "hash": "4e779db8592d6ae888c3bc6b5998787a25eb79b4"
     },
     {
       "path": "mods/levelz-1.4.9.jar",
@@ -3579,7 +3575,7 @@
     },
     {
       "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.19.2.zip",
-      "hash": "5dd0d4d0e14ffe02d903885277a5d2953692c85c"
+      "hash": "ccad6e3fddc6863a001b7730af9b968e2bf233de"
     },
     {
       "path": "resourcepacks/Naturalist Old Models.zip",

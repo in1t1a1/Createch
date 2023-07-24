@@ -1,0 +1,97 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = panorama
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 181
+  action = deep_customization_element:title_screen_branding
+  actionid = 4f7aebfd-1e7a-4bbb-a7ca-c4f89efbd9981689240568657
+  y = 258
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 8a06c037-8d12-4aa6-9909-cf763f33058a1689240568657
+  y = 167
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 103
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 4434f281-d867-4d7a-bce5-98331228906f1689240568657
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 8b6ecde0-3ba4-4197-8cb6-fc9136874b001689240568657
+  y = 0
+  height = 30
+}
+
+customization {
+  path = config/fancymenu/custom_locals/minecraft_title1.png
+  orientation = top-centered
+  x = -133
+  width = 266
+  action = addtexture
+  actionid = cd217e4e-ed24-474a-bb8b-4b3b3f6416231689240647747
+  y = 32
+  height = 50
+}
+
+customization {
+  identifier = %id=376322%
+  action = hidebutton
+}
+

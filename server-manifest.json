@@ -3,7 +3,7 @@
   "author": "in1t",
   "version": "1.1.9",
   "description": "",
-  "fileApi": "https://gitee.com/in1t1a1/Createch/raw/1.19.2",
+  "fileApi": "https://gitee.com/in1t1a1/createch/raw/1.19.2",
   "files": [
     {
       "path": "config/.puzzle_cache/mojangstudios.png",
@@ -75,7 +75,7 @@
     },
     {
       "path": "config/byg/backups/last_working_configs_backup.zip",
-      "hash": "1fe120fb10057e3a0b328f4716657b1fa841e06e"
+      "hash": "48f76a4d476c59c83dcc2854764ec4079be60266"
     },
     {
       "path": "config/byg/biomepedia.json5",
@@ -427,7 +427,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "cb6f4c2bf4baa01efaf4e42496490a3d99501888"
+      "hash": "0787da628641857f1c7d499bbbc5992db9b8c229"
     },
     {
       "path": "config/fabricskyboxes-config.json",
@@ -623,7 +623,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "72bb04b897e08bb878fcfac081fa7e17f0768b56"
+      "hash": "557e2f3f9d39b8711078fb4bf63fee04239814ca"
     },
     {
       "path": "config/inventoryprofilesnext/ddd2/prev-villager-trading-config.json",
@@ -691,7 +691,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "ab8136bb9cef4917e84b7fa77b618de3b6a1f317"
+      "hash": "e8ccb6f9beaaf2f5041f909d726cfcfc9f3c6fac"
     },
     {
       "path": "config/isxander-main-menu-credits.json",
@@ -1119,7 +1119,7 @@
     },
     {
       "path": "config/roughlyenoughitems/config.json5",
-      "hash": "4b2a24d301f585742c6d9dcc9e724883ac53ba62"
+      "hash": "5dd7f5ca354314363e001eeac2f384f55410ae82"
     },
     {
       "path": "config/roughlyenoughitems/hints.json",
@@ -1127,11 +1127,11 @@
     },
     {
       "path": "config/roughlyenoughitems/pinyin.properties",
-      "hash": "98fe6b09de2bd5f754db7a198395b4b5cd54def7"
+      "hash": "bc60faf12aeeebf34e20e051efa396512e93622c"
     },
     {
       "path": "config/roughlyenoughitems/pinyin_double.properties",
-      "hash": "438d4c914f51111d736e9de55cfea774d72a224a"
+      "hash": "55f321c92bafb620452b61a71700f582bb552a07"
     },
     {
       "path": "config/roughlyenoughitems/unihan.zip",
@@ -3363,7 +3363,7 @@
     },
     {
       "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.19.2.zip",
-      "hash": "a60b5e96bf1339c802ec577f9d0661c782df55f7"
+      "hash": "db617c840a20e16d460a749d71bd55a45c41f8c4"
     },
     {
       "path": "resourcepacks/Naturalist Old Models.zip",
@@ -3375,7 +3375,7 @@
     },
     {
       "path": "servers.dat",
-      "hash": "5e77dc158b14dffe98b553498c2c1d068e4b047b"
+      "hash": "b3bafcebe5037674d8479b05818d23828e01de52"
     },
     {
       "path": "shaderpacks/BSL_v8.2.04.zip",

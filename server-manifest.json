@@ -1,7 +1,7 @@
 {
-  "name": "Createch-1.12.1",
+  "name": "Createch-1.1.12",
   "author": "in1t",
-  "version": "1.12.1",
+  "version": "1.1.12",
   "description": "",
   "fileApi": "https://gitee.com/in1t1a1/createch/raw/1.19.2",
   "files": [
@@ -75,7 +75,7 @@
     },
     {
       "path": "config/byg/backups/last_working_configs_backup.zip",
-      "hash": "0348ab18ccf656b8e8b8a56cf3b2abef1417d8cb"
+      "hash": "62997af9384b1e1690e19bbe246f333b056aa5fa"
     },
     {
       "path": "config/byg/biomepedia.json5",
@@ -427,7 +427,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "2f0d98298fb276152a0b4285859ff9328ef378fe"
+      "hash": "919c08b0873ba67aa49a9b692408370d69e8033c"
     },
     {
       "path": "config/fabricskyboxes-config.json",
@@ -623,7 +623,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "74b927f40fc9e48a3113eebe6f69494861f25088"
+      "hash": "952a9063a7a2d9a13ea522d0e8c92b14e803cf76"
     },
     {
       "path": "config/inventoryprofilesnext/ddd2/prev-villager-trading-config.json",
@@ -691,7 +691,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "abc5cfb6201a6818968753f6dfda099b2f59d508"
+      "hash": "91745a554497270301f35bab62f899088c2539bc"
     },
     {
       "path": "config/isxander-main-menu-credits.json",
@@ -1127,11 +1127,11 @@
     },
     {
       "path": "config/roughlyenoughitems/pinyin.properties",
-      "hash": "ceb7c4b9d668c3fb7cec02599edc20da683acf8c"
+      "hash": "4071e79fe82f78ea2cc59f6e09ba437fc4ba622a"
     },
     {
       "path": "config/roughlyenoughitems/pinyin_double.properties",
-      "hash": "e7c2cd00cff379025883eaef1269e7c9d7ed372d"
+      "hash": "8b2688ad461f78b225cdca263a50beade37d67ec"
     },
     {
       "path": "config/roughlyenoughitems/unihan.zip",
@@ -3371,7 +3371,7 @@
     },
     {
       "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.19.2.zip",
-      "hash": "703d2d13813e7ed564d827dfec6911f348f715eb"
+      "hash": "b015acbca333cf59395813d9c7de569371d7e405"
     },
     {
       "path": "resourcepacks/Naturalist Old Models.zip",

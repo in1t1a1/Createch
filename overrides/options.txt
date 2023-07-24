@@ -177,6 +177,7 @@ key_key.jade.narrate:key.keyboard.keypad.4
 key_key.jade.show_details_alternative:key.keyboard.keypad.3
 key_key.keywizard.openKeyWizard:key.keyboard.f7
 key_key.levelz.openskillscreen:key.keyboard.k
+key_key.mca.skin_library:key.keyboard.u
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.observable.profile:key.keyboard.o
 key_ping-wheel.key.mark-location:key.mouse.middle

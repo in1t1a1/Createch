@@ -522,12 +522,6 @@ ServerEvents.recipes(event => {
     event.smithing('extended_drawers:t4_upgrade', 'extended_drawers:upgrade_frame', 'minecraft:emerald')
     event.smithing('extended_drawers:downgrade', 'extended_drawers:upgrade_frame', 'minecraft:dirt')
 
-    //以下为TOM的配方修改
-
-    event.remove({ id: 'toms_storage:wireless_terminal' })
-    event.remove({ id: 'toms_storage:adv_wireless_terminal' })
-    event.remove({ id: 'toms_storage:open_crate' })
-
     //以下为S.A.G.的配方修改
 
     event.remove({ id: 'anim_guns:plastic' })

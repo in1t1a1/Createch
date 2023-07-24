@@ -1,7 +1,7 @@
 {
-  "name": "Createch-1.1.9",
+  "name": "Createch-1.1.11",
   "author": "in1t",
-  "version": "1.1.9",
+  "version": "1.1.11",
   "description": "",
   "fileApi": "https://gitee.com/in1t1a1/createch/raw/1.19.2",
   "files": [
@@ -75,7 +75,7 @@
     },
     {
       "path": "config/byg/backups/last_working_configs_backup.zip",
-      "hash": "48f76a4d476c59c83dcc2854764ec4079be60266"
+      "hash": "0348ab18ccf656b8e8b8a56cf3b2abef1417d8cb"
     },
     {
       "path": "config/byg/biomepedia.json5",
@@ -427,7 +427,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "0787da628641857f1c7d499bbbc5992db9b8c229"
+      "hash": "2f0d98298fb276152a0b4285859ff9328ef378fe"
     },
     {
       "path": "config/fabricskyboxes-config.json",
@@ -591,7 +591,7 @@
     },
     {
       "path": "config/gtceu.yaml",
-      "hash": "d00f05bfd0a0ab4e77db4b8166d11846ffbf9005"
+      "hash": "a40d25b5916ef45ee39df90df0744b640c8ac5e9"
     },
     {
       "path": "config/holdthatchunk.json",
@@ -623,7 +623,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "557e2f3f9d39b8711078fb4bf63fee04239814ca"
+      "hash": "74b927f40fc9e48a3113eebe6f69494861f25088"
     },
     {
       "path": "config/inventoryprofilesnext/ddd2/prev-villager-trading-config.json",
@@ -691,7 +691,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "e8ccb6f9beaaf2f5041f909d726cfcfc9f3c6fac"
+      "hash": "abc5cfb6201a6818968753f6dfda099b2f59d508"
     },
     {
       "path": "config/isxander-main-menu-credits.json",
@@ -719,7 +719,7 @@
     },
     {
       "path": "config/jade/sort-order.json",
-      "hash": "0edb04ab123fe1c3f9d3cd87161060fe711aa8cf"
+      "hash": "40fa08132156b285d0b4882738f48006129d2e4d"
     },
     {
       "path": "config/jade/usernamecache.json",
@@ -1119,19 +1119,19 @@
     },
     {
       "path": "config/roughlyenoughitems/config.json5",
-      "hash": "5dd7f5ca354314363e001eeac2f384f55410ae82"
+      "hash": "c33ad4d8e5c69dfedd23748a3ed30b001f7b5858"
     },
     {
       "path": "config/roughlyenoughitems/hints.json",
-      "hash": "35fe36a23d86c68b97ac4c7211334b8964eb7d2b"
+      "hash": "a10d8dae9bab2975cb8cf44f6b4c5d11f59b51ae"
     },
     {
       "path": "config/roughlyenoughitems/pinyin.properties",
-      "hash": "bc60faf12aeeebf34e20e051efa396512e93622c"
+      "hash": "ceb7c4b9d668c3fb7cec02599edc20da683acf8c"
     },
     {
       "path": "config/roughlyenoughitems/pinyin_double.properties",
-      "hash": "55f321c92bafb620452b61a71700f582bb552a07"
+      "hash": "e7c2cd00cff379025883eaef1269e7c9d7ed372d"
     },
     {
       "path": "config/roughlyenoughitems/unihan.zip",
@@ -2363,7 +2363,7 @@
     },
     {
       "path": "kubejs/server_scripts/ban.js",
-      "hash": "e2bdf0ab17ba6d04f7e44dcd53d3255e25d9ffe4"
+      "hash": "c613366dfa5c10646e2d7320cecdba3b79efe911"
     },
     {
       "path": "kubejs/server_scripts/botania.js",
@@ -2379,7 +2379,7 @@
     },
     {
       "path": "kubejs/server_scripts/mods.js",
-      "hash": "0cfdc564df965729b121982b0601e82aa6231f06"
+      "hash": "2ec9742cef3d579582b522825155b8ae714292fc"
     },
     {
       "path": "kubejs/server_scripts/techreborn.js",
@@ -2584,6 +2584,10 @@
     {
       "path": "mods/createaddition-fabric+1.19.2-20230723a.jar",
       "hash": "9f69e9ffb80b479df765102528ff917f91670c90"
+    },
+    {
+      "path": "mods/createaddition-fabric1.19.2-20230720d.jar",
+      "hash": "79b9ee0191b87be2b70521c39e3c6212b2915702"
     },
     {
       "path": "mods/createchunkloading-1.5.1-fabric.jar",
@@ -2834,6 +2838,10 @@
       "hash": "3d0088efcb3c429204579bc23f1e02ea4d027361"
     },
     {
+      "path": "mods/gtceu-fabric-1.19.2-1.0.7.b-build_92.jar",
+      "hash": "c819e0e22aad11aa809e99afb75369dc602d924f"
+    },
+    {
       "path": "mods/hookshot-26.0.jar",
       "hash": "eecb055ce5da17ec3fd1cd29a481fa474deff71f"
     },
@@ -3008,6 +3016,10 @@
     {
       "path": "mods/merequester-1.19.2-1.1.2.jar",
       "hash": "ccc603fd347830539b18dde78a455a2246a051fc"
+    },
+    {
+      "path": "mods/minecraft-comes-alive-7.5.3+1.19.2-universal.jar",
+      "hash": "eb60b41dd5346af67081ea991d1c5331a0621160"
     },
     {
       "path": "mods/MiningDimensions_Fabric-1.19.2-1.4.27.jar",
@@ -3347,11 +3359,11 @@
     },
     {
       "path": "options.amecsapi.txt",
-      "hash": "04b3dd3694811111008d7dcc2dc3c08c7eae5fff"
+      "hash": "bd79f934ffe5ee25c0b21283142a6d5d3a09775a"
     },
     {
       "path": "options.txt",
-      "hash": "34a94bea2eba4ffbebe2a2aaa709c41d2a26f0c6"
+      "hash": "6b05c683632d89549f92cd093a97572fd3785a35"
     },
     {
       "path": "resourcepacks/folder.json",
@@ -3363,7 +3375,7 @@
     },
     {
       "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.19.2.zip",
-      "hash": "db617c840a20e16d460a749d71bd55a45c41f8c4"
+      "hash": "703d2d13813e7ed564d827dfec6911f348f715eb"
     },
     {
       "path": "resourcepacks/Naturalist Old Models.zip",

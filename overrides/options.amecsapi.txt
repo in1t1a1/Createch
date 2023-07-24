@@ -97,6 +97,7 @@ key_modifiers_key.jade.narrate:0,0,0
 key_modifiers_key.jade.show_details_alternative:0,0,0
 key_modifiers_key.keywizard.openKeyWizard:0,0,0
 key_modifiers_key.levelz.openskillscreen:0,0,0
+key_modifiers_key.mca.skin_library:0,0,0
 key_modifiers_key.modmenu.open_menu:0,0,0
 key_modifiers_key.observable.profile:0,0,0
 key_modifiers_ping-wheel.key.mark-location:0,0,0

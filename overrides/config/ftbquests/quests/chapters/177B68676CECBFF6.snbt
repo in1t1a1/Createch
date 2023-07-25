@@ -1,0 +1,29 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "177B68676CECBFF6"
+	group: ""
+	id: "177B68676CECBFF6"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: ["欢迎来到Createch服务器！"]
+		icon: "ad_astra:earth_globe"
+		id: "042CC146788930FF"
+		rewards: [{
+			id: "1CA3866188A320B2"
+			item: "farmersdelight:hamburger"
+			type: "item"
+		}]
+		shape: "gear"
+		size: 3.0d
+		tasks: [{
+			id: "39A444C85E5D087B"
+			title: "开始"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "欢迎"
+}

@@ -1,7 +1,7 @@
 {
-  "name": "Createch-1.1.12",
+  "name": "Createch ",
   "author": "in1t",
-  "version": "1.1.12",
+  "version": "1.3.0",
   "description": "",
   "fileApi": "https://gitee.com/in1t1a1/createch/raw/1.19.2",
   "files": [
@@ -75,7 +75,7 @@
     },
     {
       "path": "config/byg/backups/last_working_configs_backup.zip",
-      "hash": "e89bf52dd1e8cea60ca96d6786ff95bb388d0043"
+      "hash": "abcd80e703b5453d8454ff3ff3dc7e729f95791d"
     },
     {
       "path": "config/byg/biomepedia.json5",
@@ -350,8 +350,16 @@
       "hash": "62ff3023e189145815899d2d0b35b362fe5a9f5d"
     },
     {
+      "path": "config/custommachinery.toml",
+      "hash": "af2413b7c01dbd8d802921261809db1a11e52b84"
+    },
+    {
       "path": "config/de/mari_023/ae2wtlib.json5",
       "hash": "1354f4fbca28df8e8316a9a683c1ab986de3ccaa"
+    },
+    {
+      "path": "config/debugify.json",
+      "hash": "25834322ef838d025e1eadff40bfa26adf1d9700"
     },
     {
       "path": "config/diet-client.toml",
@@ -427,7 +435,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "7b3fb4116fc15cb12ab27fbcfd464ca5b88fd91c"
+      "hash": "11b731b53f14d2e690bc881da394d1e78e09190a"
     },
     {
       "path": "config/fabricskyboxes-config.json",
@@ -447,7 +455,7 @@
     },
     {
       "path": "config/fancymenu/customization/final.txt",
-      "hash": "4c6ecedcbe24b80cda6f46aee5039b7561a693d7"
+      "hash": "b5faa181af5e1630dfe9cf5e99637f054135c3f2"
     },
     {
       "path": "config/fancymenu/custom_locals/minecraft_title1.png",
@@ -623,7 +631,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "eaa1ca93c7a098088f910bc5ae233ed0cc8ab8ee"
+      "hash": "46d8e8b471294b5a297849f92dcfb5f98273355f"
     },
     {
       "path": "config/inventoryprofilesnext/createch.thestars.fun\u002623029/prev-villager-trading-config.json",
@@ -699,7 +707,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "69024e55f15f568e53667ccea3bcfab964deee99"
+      "hash": "9212c3311e7595519a79a80f1cbeb56567f0be34"
     },
     {
       "path": "config/isxander-main-menu-credits.json",
@@ -723,7 +731,7 @@
     },
     {
       "path": "config/jade/plugins.json",
-      "hash": "8e675f6e1f77219227521bf9c7284bf023fd4164"
+      "hash": "d06e00d4563bf6d74bdd20f9b61e46bcba6823cc"
     },
     {
       "path": "config/jade/sort-order.json",
@@ -772,6 +780,10 @@
     {
       "path": "config/joyggdconfig.properties",
       "hash": "e7629d98d8082db9de4f5aaf7d8defff20536673"
+    },
+    {
+      "path": "config/jsclient.json",
+      "hash": "7a63cca2463294c72db1215ce07c7ea2a4904372"
     },
     {
       "path": "config/jsonem.properties",
@@ -906,6 +918,14 @@
       "hash": "d4d30939d76f2e3e7ab2736e9649be0abcc310c0"
     },
     {
+      "path": "config/littlemaidmodelloader.json",
+      "hash": "64f11bd1e53dc15fe92a3f9b23b0af6a14401ba5"
+    },
+    {
+      "path": "config/littlemaidrebirth.json",
+      "hash": "d04f371be2302790f02be9c5d5ea20ec3f47358f"
+    },
+    {
       "path": "config/loadmyresources/config.cfg",
       "hash": "b8ec3034afa0c08b831031696f10ad6e7ec64bdc"
     },
@@ -932,6 +952,10 @@
     {
       "path": "config/mca.json",
       "hash": "2ef2c5a7fef7cf088ee49674952e318034b33be5"
+    },
+    {
+      "path": "config/mchalo.json",
+      "hash": "db927201354393a3f33c13683b8b195348410883"
     },
     {
       "path": "config/mcpitanlibarch/blacklist.json",
@@ -966,8 +990,28 @@
       "hash": "0af225bd84efb118f96265c9fdee685b5c2e7e07"
     },
     {
+      "path": "config/modernfix-mixins.properties",
+      "hash": "4c060862ece8922c370b098889163e4cdd5627e1"
+    },
+    {
       "path": "config/modmenu.json",
       "hash": "2354b1d83d555b499a5f7dc374ef91e125569cbb"
+    },
+    {
+      "path": "config/msd.json",
+      "hash": "6d2a6daa1e348e526183db684688edff47478ff1"
+    },
+    {
+      "path": "config/mtr.json",
+      "hash": "f96f5a6e13c9b389a2468e57b90cebc6257dde8f"
+    },
+    {
+      "path": "config/mtrsteamloco.json",
+      "hash": "e43d1c7620c96b77740e9184155f45f3776112b8"
+    },
+    {
+      "path": "config/mtr_webserver_port.txt",
+      "hash": "535e55f2f0f72c2867cd7b3156d90eb3e9ecbf72"
     },
     {
       "path": "config/musketmod.txt",
@@ -1030,6 +1074,10 @@
       "hash": "400d2707056b66523edcde7725e86b73199ec9ec"
     },
     {
+      "path": "config/panorama.json",
+      "hash": "1415a14ab9f2dc8fbb21d0a867956ac633bcaf60"
+    },
+    {
       "path": "config/paragon.json5",
       "hash": "4a270efdfa50147631a7d40aa3c4ee6206b66e98"
     },
@@ -1050,8 +1098,8 @@
       "hash": "6aff9afed05022c305c8ef2a81a7bb8208144068"
     },
     {
-      "path": "config/paxi/resourcepacks/ServerPack.zip",
-      "hash": "84bb5c72855426b94fe2b4c805b64a82f8c59b0c"
+      "path": "config/paxi/resourcepacks/Server.zip",
+      "hash": "5939db1e1f680828a25ab973b719678c424b68d9"
     },
     {
       "path": "config/paxi/resourcepack_load_order.json",
@@ -1099,7 +1147,7 @@
     },
     {
       "path": "config/replaymod-rendersettings.json",
-      "hash": "77bc9dcec4df70611c2691a7da7121c152bf2b14"
+      "hash": "cfb04138f1224442eadee19c44bea39a5afa8731"
     },
     {
       "path": "config/replaymod-screenshotsettings.json",
@@ -1127,7 +1175,7 @@
     },
     {
       "path": "config/roughlyenoughitems/config.json5",
-      "hash": "c33ad4d8e5c69dfedd23748a3ed30b001f7b5858"
+      "hash": "ccc912a9104790330428dff41cf0a175529a3fab"
     },
     {
       "path": "config/roughlyenoughitems/hints.json",
@@ -1135,11 +1183,11 @@
     },
     {
       "path": "config/roughlyenoughitems/pinyin.properties",
-      "hash": "b7727e905e25288db0ce8103a7927cd2ade1d745"
+      "hash": "294773d6a3864589f2916d86e2969eb40f74e194"
     },
     {
       "path": "config/roughlyenoughitems/pinyin_double.properties",
-      "hash": "3cc177e05595b801901367b285dfe9d2f2b1436b"
+      "hash": "f7f58eb6ecfee7295b79090c34298cb301307da3"
     },
     {
       "path": "config/roughlyenoughitems/unihan.zip",
@@ -1203,7 +1251,7 @@
     },
     {
       "path": "config/sodium-extra-options.json",
-      "hash": "6d19ac488a59f68c4236b140e8710e36b23d1552"
+      "hash": "d15096e1c34fb13387c8d35460534ff8a89d2ffd"
     },
     {
       "path": "config/sodium-extra.properties",
@@ -1654,12 +1702,20 @@
       "hash": "b489fea0c949f230ba368c053d6cfd682a4812df"
     },
     {
+      "path": "config/worldedit/worldedit.properties",
+      "hash": "050a164b7056e4e1b3ecb7589689a5e40ca46c5d"
+    },
+    {
+      "path": "config/worldeditcui.config.json",
+      "hash": "793f8dedada4d70b40b780d825c4f116a8a3eecf"
+    },
+    {
       "path": "config/xaerominimap.txt",
-      "hash": "a3fdd153511e22e94b74cdec6ce583fcb1fb4a82"
+      "hash": "47fcb0f04bb3dfedea2e1e752a6a66c8b13d5cdf"
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "35f105afe7aaf3eb166547956f30d78e08afed88"
+      "hash": "422fc7113608bd51c783d945ec208a87d7a62a77"
     },
     {
       "path": "config/xaeropatreon.txt",
@@ -1667,7 +1723,7 @@
     },
     {
       "path": "config/xaeroworldmap.txt",
-      "hash": "e09b0c5240542e17c70b35da7a1cffaf859ec40b"
+      "hash": "c37810543d283a236fdd3db06a4912d9f8462d24"
     },
     {
       "path": "config/yosbr/config/borderlessmining.json",
@@ -1898,6 +1954,10 @@
       "hash": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
     },
     {
+      "path": "kubejs/backup/backup.js",
+      "hash": "bfc4f7a2e8214d4e719a48eb82d7fd77b4ecb168"
+    },
+    {
       "path": "kubejs/client_scripts/script.js",
       "hash": "c7ca464c3b857f4c36da16650d90c39cfbf7d0a9"
     },
@@ -1907,7 +1967,7 @@
     },
     {
       "path": "kubejs/config/common.properties",
-      "hash": "0ce19e1f5b434d7a4f397ba2edf4ebcb1ad64395"
+      "hash": "8bb293dbf8edc668111bd13073d7506633ce262e"
     },
     {
       "path": "kubejs/config/probejs.json",
@@ -2371,7 +2431,7 @@
     },
     {
       "path": "kubejs/server_scripts/ban.js",
-      "hash": "c613366dfa5c10646e2d7320cecdba3b79efe911"
+      "hash": "cd05a4b2d1429cf554c3929cd0c4bbaf3ce191a0"
     },
     {
       "path": "kubejs/server_scripts/botania.js",
@@ -2383,11 +2443,15 @@
     },
     {
       "path": "kubejs/server_scripts/custom.js",
-      "hash": "c2e11de3205a3684a1aeafb9602b0b1560ad4eb6"
+      "hash": "fff606b2b64f2402470186a83399486d844a66ce"
+    },
+    {
+      "path": "kubejs/server_scripts/gt.js",
+      "hash": "a524ed489f85f92e0ea7a2043a784dca0919731f"
     },
     {
       "path": "kubejs/server_scripts/mods.js",
-      "hash": "2ec9742cef3d579582b522825155b8ae714292fc"
+      "hash": "94c1689d0cb1a692fe42c8cd78920d1fb9d561f5"
     },
     {
       "path": "kubejs/server_scripts/techreborn.js",
@@ -2414,10 +2478,6 @@
       "hash": "3398797a7a13359c9f3543508c62d6e29e91173a"
     },
     {
-      "path": "mods/aftersans53228-fabric-road+1.0.1+1.19+Release.jar",
-      "hash": "9c924513b6563a5ac58a58aa8ee87d65efb8b39b"
-    },
-    {
       "path": "mods/amecs-1.3.8+mc.1.19-rc2.jar",
       "hash": "88c0fcf573a511760be66c562b14f9a3a056fee2"
     },
@@ -2428,10 +2488,6 @@
     {
       "path": "mods/Annotated-DI-Fabric-4.0.2+1.19.2.jar",
       "hash": "8d7fc24e14b5b0ad0a50b576a835c374d8ecf53d"
-    },
-    {
-      "path": "mods/another_furniture-fabric-2.1.2-1.19.2.jar",
-      "hash": "0553fdc5c990917f88637a7acb934843b6fd2cdf"
     },
     {
       "path": "mods/antighost-1.19.1-fabric0.58.5-1.1.5.jar",
@@ -2638,10 +2694,6 @@
       "hash": "dc1f6595f8e69c90d8fd3881a5bd70ba6724c9ed"
     },
     {
-      "path": "mods/ctm-refabricated-1.0.1+1.19.jar",
-      "hash": "e1a4458cd1ab34c6a956e669f373ebdea81ec711"
-    },
-    {
       "path": "mods/ctov-3.2.5.jar",
       "hash": "37af788a1fff11ecc9facacb06ca708902f742ca"
     },
@@ -2674,10 +2726,6 @@
       "hash": "9d49bfa5d9838e837f6f2220caa8488d2dd17c99"
     },
     {
-      "path": "mods/dragonfight-fabric-1.19.2-2.8.jar",
-      "hash": "058c3511ab42357ff32c946c22dc549e08756680"
-    },
-    {
       "path": "mods/dummmmmmy-1.19.2-1.7.1-fabric.jar",
       "hash": "26e1eaf68b9356fdf62341033a20265e29825551"
     },
@@ -2704,10 +2752,6 @@
     {
       "path": "mods/enchlevel-langpatch-2.1.2.jar",
       "hash": "ec6548ae2448117a03644161798a3eff52ed18b1"
-    },
-    {
-      "path": "mods/EnderZoology-v4.0.1-1.19.2-Fabric.jar",
-      "hash": "6c3cf7f0ca8e1540e58ce8bdb8cf3b19f25fe41e"
     },
     {
       "path": "mods/enhancedblockentities-0.7.2+1.19.2.jar",
@@ -2810,24 +2854,24 @@
       "hash": "aa8411ec0f14264bc6da9a9f8ad551c471c1bd69"
     },
     {
-      "path": "mods/ftb-chunks-fabric-1902.3.22-build.271.jar",
-      "hash": "c00ed8c0f633c1df0e59a0e50b36b519ecc58a31"
+      "path": "mods/ftb-chunks-fabric-1902.4.1-build.290.jar",
+      "hash": "d0f7bac4158ac50feaf97a079e237dc5a47f85f4"
     },
     {
-      "path": "mods/ftb-library-fabric-1902.4.0-build.232.jar",
-      "hash": "f780969c4a995369f7112af7efb9720154db9a7e"
+      "path": "mods/ftb-library-fabric-1902.4.1-build.236.jar",
+      "hash": "2c24b2d94855c2fdd4b9268c625a9121fed017c2"
     },
     {
-      "path": "mods/ftb-quests-fabric-1902.5.1-build.250.jar",
-      "hash": "df5837403893e60db8ad03fcdc7a107301b898bb"
+      "path": "mods/ftb-quests-fabric-1902.5.3-build.258.jar",
+      "hash": "b45c09512e152d6422164922d604baf1d807d8cd"
     },
     {
       "path": "mods/ftb-teams-fabric-1902.2.14-build.123.jar",
       "hash": "7a39a7c00b5e246c3cd0fa437d050459b0560551"
     },
     {
-      "path": "mods/ftb-xmod-compat-fabric-1.1.2.jar",
-      "hash": "a7c4b559dba3001a7e1ef67e916388667dab7272"
+      "path": "mods/ftb-xmod-compat-fabric-1.2.1.jar",
+      "hash": "8697fb7bbb37a69b97cc07584ab29d5f172368ae"
     },
     {
       "path": "mods/fulleng-fabric-0.3.jar",
@@ -2902,6 +2946,10 @@
       "hash": "84663e12db5c9619fd21064ab227899c799ab759"
     },
     {
+      "path": "mods/Joban-Client-Mod-1.19.2-1.2.2.jar",
+      "hash": "f0059cce25b948d50f413008e6acc8aa85747cca"
+    },
+    {
       "path": "mods/jobsaddon-1.1.1.jar",
       "hash": "5170c56ea161c80092176f6d4ef261f7f46c884c"
     },
@@ -2930,15 +2978,15 @@
       "hash": "ebf153865aafe8524a2948ea81d332e35e9843ca"
     },
     {
-      "path": "mods/kubejs-fabric-1902.6.1-build.327.jar",
-      "hash": "24abfe99053833aebff1ea6316e5a9d718a19661"
+      "path": "mods/kubejs-fabric-1902.6.1-build.337.jar",
+      "hash": "a4b4a82e37a2c615cf260b8b23fbe6be8577859f"
     },
     {
-      "path": "mods/lambdabettergrass-1.3.0+1.19.jar",
+      "path": "mods/lambdabettergrass-1.3.0+1.19.jar.disabled",
       "hash": "95847e7ac49fbccb679f7e8ede37835a0cd65bf2"
     },
     {
-      "path": "mods/lambdynamiclights-2.2.0+1.19.2.jar",
+      "path": "mods/lambdynamiclights-2.2.0+1.19.2.jar.disabled",
       "hash": "a2f8ab8fc203a6b4a2d2a756ab5e74ac621ebfdd"
     },
     {
@@ -2994,36 +3042,12 @@
       "hash": "089d49a5b56dc4738dfe75d2365fe54bb7b7a379"
     },
     {
-      "path": "mods/mcw-bridges-2.1.0-mc1.19.2fabric.jar",
-      "hash": "901e189bebf780d5b107847eef2c1a5a5a2017fd"
-    },
-    {
-      "path": "mods/mcw-doors-1.1.0fabric-mc1.19.2.jar",
-      "hash": "99bd58013153f4eefdbe2b92b735e495f15f03fd"
-    },
-    {
-      "path": "mods/mcw-fences-1.0.7-mc1.19.2fabric.jar",
-      "hash": "6f69294ed2d37c5e4174ab2b612035fb54125cd9"
-    },
-    {
-      "path": "mods/mcw-lights-1.0.6-mc1.19.2fabric.jar",
-      "hash": "324d84b81c88fea9302b01a014579be4363a6a64"
-    },
-    {
-      "path": "mods/mcw-paintings-1.0.4fabric-mc1.19.2.jar",
-      "hash": "11690229114e343bc33040780580b9042ddd9efc"
-    },
-    {
-      "path": "mods/mcw-roofs-2.2.4-mc1.19.2fabric.jar",
-      "hash": "1341c1bcd999cdb8c0fb8ee3d69b1c9965242435"
-    },
-    {
       "path": "mods/megacells-fabric-2.0.1-1.19.2.jar",
       "hash": "1f246d0a82a88998d3160d1b644b4e16187c400d"
     },
     {
-      "path": "mods/merequester-1.19.2-1.1.2.jar",
-      "hash": "ccc603fd347830539b18dde78a455a2246a051fc"
+      "path": "mods/merequester-fabric-1.19.2-1.1.3.jar",
+      "hash": "141a259bcff7363b83803a096b0fdeb7b0375788"
     },
     {
       "path": "mods/minecraft-comes-alive-7.5.3+1.19.2-universal.jar",
@@ -3046,6 +3070,10 @@
       "hash": "e61ba7da211094f4c811987ca7f8a92b1e03c401"
     },
     {
+      "path": "mods/modernfix-fabric-5.4.1+mc1.19.2.jar",
+      "hash": "33da58034e6d3b782718eb8e35ff600886c3964d"
+    },
+    {
       "path": "mods/modmenu-4.2.0-beta.2.jar",
       "hash": "6e627ee1b31f5be89e14c85e888f47463d8da9c2"
     },
@@ -3064,6 +3092,18 @@
     {
       "path": "mods/MoreLeads-fabric-1.19.2-1.0.0.jar",
       "hash": "f5e466d3b883f699f790b46e0f30c7ab244503c3"
+    },
+    {
+      "path": "mods/MTR-fabric-1.19.2-3.2.2-hotfix-1.jar",
+      "hash": "eb9ef66565792eae34882a2f52d1a595aa5e7b89"
+    },
+    {
+      "path": "mods/MTR-MSD-Addon-fabric-1.19.2-3.2.2-1.3.4-enhancement-1.jar",
+      "hash": "0dec26bd85c59217fa1f28efe7314afab115dbc7"
+    },
+    {
+      "path": "mods/MTR-NTE-fabric-1.19.2-0.3.3.jar",
+      "hash": "3f48c0ca3c1c5798ddc1f7908741fe988cda40a0"
     },
     {
       "path": "mods/music_disc.jar",
@@ -3174,12 +3214,8 @@
       "hash": "9f32b9e496dc6075e9acd3d5a4d633b79d530fac"
     },
     {
-      "path": "mods/recursive-resources-2.4.3+1.19.jar",
-      "hash": "733e287749e0f7242b1b70a42d05aab514090483"
-    },
-    {
-      "path": "mods/reeses_sodium_options-1.4.9+mc1.19.2-build.67.jar",
-      "hash": "3b48ed460ce30c38e6058fdd0c3d6a221913e4e4"
+      "path": "mods/reeses_sodium_options-1.6.4+mc1.19.2-build.93.jar",
+      "hash": "b3e82b1a9a226575dff81690559281d02e417e23"
     },
     {
       "path": "mods/replaymod-1.19.2-2.6.13.jar.disabled",
@@ -3290,10 +3326,6 @@
       "hash": "33b0ed2f41947f3ab94e94ff286a611cfe33cd30"
     },
     {
-      "path": "mods/tis3d-MC1.19.2-fabric-1.7.2+a05bbc1.jar",
-      "hash": "0fad8bab37eee2cd3786dabe265f0d795f014d1b"
-    },
-    {
       "path": "mods/toms_storage_fabric-1.19-1.5.9.jar",
       "hash": "4cfbbf31a871bc03958c8bbc9b892f9110757ab4"
     },
@@ -3342,6 +3374,14 @@
       "hash": "86eafa73e5de6f6aec6401312f3b242a6e48b94b"
     },
     {
+      "path": "mods/worldedit-mod-7.2.12.jar",
+      "hash": "3583d0182a2a5c96d13434ed48ebb29742228174"
+    },
+    {
+      "path": "mods/WorldEditCUI-1.19.2+01.jar",
+      "hash": "0cdf4bc2c8361e326ec8a4df79532fd09a2d0793"
+    },
+    {
       "path": "mods/xercamusic-fabric-1.19.2-1.0.2.jar",
       "hash": "c1a8f9f42a64f5838d866f835b1e1ce8aec299a9"
     },
@@ -3362,32 +3402,44 @@
       "hash": "ca7b31575c4f4e4205d14595c82d1bb27d34e568"
     },
     {
+      "path": "mods/yuushya-1.19.2-fabric-2.0.0-stage9.2.jar",
+      "hash": "deb95824de9d8429c6fab71b559d4048007be0f0"
+    },
+    {
+      "path": "mods/yuushya-modelling-1.19.2-fabric-2.0.0-stage9.2.jar",
+      "hash": "ef25a9a7e61a6a30bbc609be2b81862fd1fa336b"
+    },
+    {
       "path": "mods/Zoomify-2.9.0.jar",
       "hash": "0ac09c47fba094d22e52fe6e53f990be63f650d8"
     },
     {
       "path": "options.amecsapi.txt",
-      "hash": "bd79f934ffe5ee25c0b21283142a6d5d3a09775a"
+      "hash": "0e19d5fa898a9d0915eba7cc8247156bdd5a1f98"
     },
     {
       "path": "options.txt",
-      "hash": "6b05c683632d89549f92cd093a97572fd3785a35"
+      "hash": "0d2c6ca0a11e9454a854d8da9340549327ff6691"
     },
     {
       "path": "resourcepacks/folder.json",
-      "hash": "d73c917e3f35fcc510883af043176313d19feec6"
+      "hash": "4fe52d7a93b8629b560d6bd772edff1c5e572222"
     },
     {
-      "path": "resourcepacks/Greenfield.Texture.Pack.1.17.zip",
+      "path": "resourcepacks/Greenfield Texture Pack.zip",
       "hash": "7e48b3fa6fe4c9ff4bc49a0df89bac7394d7d663"
     },
     {
       "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.19.2.zip",
-      "hash": "2c09513817ba285d79f96425eb9533dcca668560"
+      "hash": "b684d001ad37718ceb46f390e1759b1e499cbc05"
     },
     {
       "path": "resourcepacks/Naturalist Old Models.zip",
       "hash": "b04f3ee8f5e43fa3b162981b50bb72fe1acabb33"
+    },
+    {
+      "path": "resourcepacks/内测资源包 Yuushya EBM  for stage 9.zip",
+      "hash": "85902db5a4f53e51745586e87ebc5acf7a99a603"
     },
     {
       "path": "schematics/沉浸式风化刷石机示例.nbt",
@@ -3395,7 +3447,7 @@
     },
     {
       "path": "servers.dat",
-      "hash": "08a49368f42736f8a8749e451296f1de0d51849b"
+      "hash": "89c1353bf3f58cc55f8350298b96e8b769fa2b0d"
     },
     {
       "path": "shaderpacks/BSL_v8.2.04.zip",

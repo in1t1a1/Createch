@@ -198,11 +198,11 @@ ServerEvents.recipes(event => {
 
     event.custom({
         "type": "create:mixing",
-        "ingredients": [{ "item": "minecraft:iron_ingot" }, { "item": "minecraft:redstone"}],
+        "ingredients": [{ "item": "minecraft:iron_ingot" }, { "item": "minecraft:redstone" }],
         "results": [{ "item": "kubejs:redstone_alloy_ingot", "count": 2 }],
         "heatRequirement": "heated"
     })
-    
+
     event.custom({
         "type": "createaddition:rolling",
         "input": { "item": "kubejs:redstone_alloy_ingot" },

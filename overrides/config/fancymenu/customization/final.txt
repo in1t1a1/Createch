@@ -24,6 +24,11 @@ customization {
 }
 
 customization {
+  identifier = %id=376322%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = hidebutton
 }
@@ -86,12 +91,7 @@ customization {
   width = 266
   action = addtexture
   actionid = cd217e4e-ed24-474a-bb8b-4b3b3f6416231689240647747
-  y = 32
+  y = 45
   height = 50
-}
-
-customization {
-  identifier = %id=376322%
-  action = hidebutton
 }
 

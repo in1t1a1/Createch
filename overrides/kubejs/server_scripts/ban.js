@@ -11,24 +11,24 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'ad_astra:recipes/coal_generator' })
     event.remove({ id: 'ad_astra:recipes/compressor' })
     event.remove({ id: 'ad_astra:recipes/solar_panel' })
-    
+
     event.remove({ id: 'mining_dims:mining_teleporter' })
     event.remove({ id: 'mining_dims:caving_teleporter' })
     event.remove({ id: 'mining_dims:climbing_teleporter' })
     event.remove({ id: 'mining_dims:nethering_teleporter' })
     event.remove({ id: 'mining_dims:hunting_teleporter' })
-    
+
     event.remove({ id: 'ae2:network/blocks/spatial_io_pylon' })
     event.remove({ id: 'ae2:spatial_anchor' })
-    
+
     event.remove({ id: 'botania:loki_ring' })
     event.remove({ id: 'botania:laputa_shard' })
-    
+
     event.remove({ id: 'create:crafting/kinetics/filter' })
     event.remove({ id: 'create:crafting/appliances/filter_clear' })
     event.remove({ id: 'create:crafting/kinetics/attribute_filter' })
     event.remove({ id: 'create:crafting/appliances/attribute_filter_clear' })
-    
+
     event.remove({ id: 'toms_storage:inventory_connector' })
     event.remove({ id: 'toms_storage:trim' })
     event.remove({ id: 'toms_storage:trim_clean' })
@@ -47,5 +47,14 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'toms_storage:tag_item_filter' })
     event.remove({ id: 'toms_storage:wireless_terminal' })
     event.remove({ id: 'toms_storage:adv_wireless_terminal' })
+
+    event.remove({ id: 'vs_eureka:oak_ship_helm' })
+    event.remove({ id: 'vs_eureka:spruce_ship_helm' })
+    event.remove({ id: 'vs_eureka:birch_ship_helm' })
+    event.remove({ id: 'vs_eureka:jungle_ship_helm' })
+    event.remove({ id: 'vs_eureka:acacia_ship_helm' })
+    event.remove({ id: 'vs_eureka:dark_oak_ship_helm' })
+    event.remove({ id: 'vs_eureka:crimson_ship_helm' })
+    event.remove({ id: 'vs_eureka:warped_ship_helm' })
 
 })

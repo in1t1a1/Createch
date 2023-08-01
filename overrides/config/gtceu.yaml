@@ -69,6 +69,10 @@ recipes:
   # Default: false
   removeVanillaBlockRecipes: false
 
+  # Whether to remove Vanilla TNT Recipe from the Crafting Table.
+  # Default: true
+  removeVanillaTNTRecipe: true
+
 worldgen:
   # Should all Stone Types drop unique Ore Item Blocks?
   # Default: false (meaning only Stone, Netherrack, and Endstone)
@@ -87,6 +91,10 @@ worldgen:
   # Debug ore vein placement? (will print placed veins to server's debug.log)
   # Default: false (no placement printout in debug.log)
   debugWorldgen: false
+
+  # Rubber Tree spawn chance (% per chunk)
+  # Default: 0.5
+  rubberTreeSpawnChance: 0.5
 
 machines:
   # Whether insufficient energy supply should reset Machine recipe progress to zero.

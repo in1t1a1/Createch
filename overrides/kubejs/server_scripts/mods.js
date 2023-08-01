@@ -6,61 +6,6 @@ console.info('以下为mod.js的加载')
 
 ServerEvents.recipes(event => {
 
-    //以下为沉浸式飞机的配方修改
-
-    event.remove({ id: 'immersive_aircraft:hull' })
-    event.shaped('immersive_aircraft:hull', [
-        'AAA',
-        'SSS',
-        'AAA'
-    ], {
-        A: 'create:andesite_casing',
-        S: '#c:steel_plates'
-    })
-
-    event.remove({ id: 'immersive_aircraft:boiler' })
-    event.shaped('immersive_aircraft:boiler', [
-        'CCI',
-        'CSP',
-        'CCI'
-    ], {
-        C: '#c:copper_plates',
-        I: 'minecraft:copper_ingot',
-        P: 'minecraft:piston',
-        S: 'create:steam_engine'
-    })
-
-    event.remove({ id: 'immersive_aircraft:engine' })
-    event.shaped('immersive_aircraft:engine', [
-        ' C ',
-        ' B ',
-        ' A '
-    ], {
-        C: 'create:flywheel',
-        B: 'immersive_aircraft:boiler',
-        A: 'minecraft:blast_furnace'
-    })
-
-    event.remove({ id: 'immersive_aircraft:sail' })
-    event.shaped('immersive_aircraft:sail', [
-        'PP',
-        'WW',
-        'WW'
-    ], {
-        P: '#minecraft:planks',
-        W: 'create:white_sail'
-    })
-
-    event.remove({ id: 'immersive_aircraft:propeller' })
-    event.shaped('immersive_aircraft:propeller', [
-        ' I ',
-        'ISI',
-        ' I '
-    ], {
-        S: 'create:propeller',
-        I: '#c:iron_plates'
-    })
-
     //以下为宝丽来相机的配方修改
 
     event.remove({ id: 'polaroidcamera:camera' })
@@ -391,6 +336,20 @@ ServerEvents.recipes(event => {
 
         "results": [{ "item": "createutilities:graviton_tube" }]
     })
+
+    //以下为瓦尔基里的配方修改
+    
+    event.remove({ id: 'vs_eureka:oak_ship_helm' })
+    event.remove({ id: 'vs_eureka:spruce_ship_helm' })
+    event.remove({ id: 'vs_eureka:birch_ship_helm' })
+    event.remove({ id: 'vs_eureka:jungle_ship_helm' })
+    event.remove({ id: 'vs_eureka:acacia_ship_helm' })
+    event.remove({ id: 'vs_eureka:dark_oak_ship_helm' })
+    event.remove({ id: 'vs_eureka:crimson_ship_helm' })
+    event.remove({ id: 'vs_eureka:warped_ship_helm' })
+
+    //钻石粉统一
+    event.remove({ id: 'createaddition:crushing/diamond' })
 
 })
 

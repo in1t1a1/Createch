@@ -34,6 +34,17 @@ ServerEvents.recipes(event => {
         "results": [{ "item": "create:electron_tube" }]
     })
 
+    event.remove({ id: 'create:crafting/kinetics/deployer' })
+    event.shaped('create:deployer', [
+        'S',
+        'A',
+        'B'
+    ], {
+        S: 'create:shaft',
+        A: 'create:andesite_casing',
+        B: 'create:brass_hand'
+    })
+
     event.custom({                                                            //余烬面粉洗涤
         "type": "create:splashing",
         "ingredients": [

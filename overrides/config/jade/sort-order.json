@@ -75,6 +75,8 @@
   "gtceu:workable_provider": null,
   "gtceu:controllable_provider": null,
   "gtceu:recipe_logic_provider": null,
+  "polymer:blockstate": null,
+  "polymer:entities": null,
   "ae2:server_data": null,
   "ae2:charger": null,
   "ae2:crafting_monitor": null,
@@ -146,5 +148,7 @@
   "create:exact_block": null,
   "create:filter": null,
   "create:goggles": null,
-  "levelz:mineable_info": null
+  "levelz:mineable_info": null,
+  "polymer:blockstate": null,
+  "polymer:entities": null
 }

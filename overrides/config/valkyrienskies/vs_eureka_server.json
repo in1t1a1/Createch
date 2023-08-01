@@ -1,6 +1,6 @@
 {
-  "enginePower" : 2000000.0,
-  "minEnginePower" : 700000.0,
+  "enginePower" : 800000.0,
+  "minEnginePower" : 300000.0,
   "engineHeatLoss" : 0.01,
   "engineHeatGain" : 0.03,
   "maxCasualSpeed" : 20.0,

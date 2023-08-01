@@ -11,6 +11,7 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'ad_astra:recipes/coal_generator' })
     event.remove({ id: 'ad_astra:recipes/compressor' })
     event.remove({ id: 'ad_astra:recipes/solar_panel' })
+    event.remove({ id: 'ad_astra:recipes/steel_ingot_from_blasting_iron_ingot' })
 
     event.remove({ id: 'mining_dims:mining_teleporter' })
     event.remove({ id: 'mining_dims:caving_teleporter' })
@@ -48,13 +49,8 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'toms_storage:wireless_terminal' })
     event.remove({ id: 'toms_storage:adv_wireless_terminal' })
 
-    event.remove({ id: 'vs_eureka:oak_ship_helm' })
-    event.remove({ id: 'vs_eureka:spruce_ship_helm' })
-    event.remove({ id: 'vs_eureka:birch_ship_helm' })
-    event.remove({ id: 'vs_eureka:jungle_ship_helm' })
-    event.remove({ id: 'vs_eureka:acacia_ship_helm' })
-    event.remove({ id: 'vs_eureka:dark_oak_ship_helm' })
-    event.remove({ id: 'vs_eureka:crimson_ship_helm' })
-    event.remove({ id: 'vs_eureka:warped_ship_helm' })
+    event.remove({ type: 'spectrum:anvil_crushing' })
+
+    event.remove({ id: 'javd:portal_block' })
 
 })
